@@ -1,0 +1,201 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An Account of the execution and last dying speeches of Thomas Watson and Thomas Gourdon who were executed (the one for murthering his wife and the other for high-treason) on Kenington-Common in the county of Surry, the 19th of March, 1687 : together with a true coppy of a paper left by Tho. Watson in order to be published and recommended by him at the place of execution to the spectators as the real sense of what he further designed or intended to say or leave at his going out of this world &amp;c. ...</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1687</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A25179</idno>
+            <idno type="STC">Wing A288_VARIANT</idno>
+            <idno type="STC">ESTC R27084</idno>
+            <idno type="EEBO-CITATION">09642448</idno>
+            <idno type="OCLC">ocm 09642448</idno>
+            <idno type="VID">43890</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A25179)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 43890)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1322:4)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An Account of the execution and last dying speeches of Thomas Watson and Thomas Gourdon who were executed (the one for murthering his wife and the other for high-treason) on Kenington-Common in the county of Surry, the 19th of March, 1687 : together with a true coppy of a paper left by Tho. Watson in order to be published and recommended by him at the place of execution to the spectators as the real sense of what he further designed or intended to say or leave at his going out of this world &amp;c. ...</title>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Mallet for G.P.,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1687.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Reproduction of original in the Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Watson, Thomas, d. 1687?</term>
+               <term>Gourdon, Thomas, d. 1687?</term>
+               <term>Executions and executioners --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Lauren Proux</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="account">
+            <pb facs="tcp:43890:1" rendition="simple:additions"/>
+            <head>An ACCOUNT OF THE EXECUTION, And Laſt Dying SPEECHES Of <hi>Thomas Watſon</hi> and <hi>Thomas Gourdon,</hi> Who where Executed, (the one for Murthering his Wife, and the other for High-Treaſon) on <hi>Kenington-Common</hi> in the County of <hi>Surry,</hi> the 19th. of <hi>March,</hi> 1687.</head>
+            <head type="sub">Together, with a True Coppy of a Paper, left by <hi>Tho. Watſon,</hi> in order to be Publiſhed, and and Recommended by him at the place of Execution, to the Spectators, as the real Senſe of what he further deſigned or intended to ſay or leave, at his going out of this World, <hi>&amp;c.</hi> Being Written with his own Hand in the <hi>Marſhalſea</hi> Priſon.</head>
+            <p>OF the four Perſons who Received Sentence of Death, at the laſt <hi>Lenten-Aſſizes,</hi> held at St. <hi>Margarets-Hill</hi> in <hi>Southwark,</hi> for the County of <hi>Surry;</hi> two received a Gracious Re<g ref="char:EOLhyphen"/>prieve, and the other two, <hi>viz. Thomas Watſon,</hi> Condemned for Killing <hi>Mary Watſon</hi> his Wife, by giving her a Mortal Wound with his Bionet; and <hi>Thomas Geurdon,</hi> for Clipping and Defacing the Currant Coin of this Kingdom, were this 19th. of <hi>March,</hi> 1687. Conveyed to <hi>Kennington Common,</hi> the place appointed for their Execution; the Firſt in a Cart, and the Latter on a Sledge, where being ar<g ref="char:EOLhyphen"/>rived about Eleven of the Clock in the Morning, <hi>Gourdon</hi> was taken out of the Sledge and put into the Cart where <hi>Watſon</hi> was; and being both of them Tyed up in the uſual manner, <hi>Watſon,</hi> after he had delivered the Books he had brought with him, to<g ref="char:EOLhyphen"/>gether with his Hat, Cravat, and ſome other things of the like Nature to his Friends, who attended in a Coach, was asked if he intended to ſay any thing to the People, in Relation to the Circumſtances he was under; who replyed, he deſigned to ſay ſome<g ref="char:EOLhyphen"/>thing, as he hoped for the good of the Spectators, who came to be Witneſſes of his unhappy End, and thereupon having declared that he had left the par<g ref="char:EOLhyphen"/>ticulars of what he intended to ſay in Writing, with a Woman, a Friend of his, in order to be Prin<g ref="char:EOLhyphen"/>ted, for the General Good and Satisfaction of the publick, he proceeded in this manner.</p>
+            <q>
+               <p>I <hi>Beſeech you, good People who come to ſee my ſhame<g ref="char:EOLhyphen"/>ful and Ignominious End and Death, which I little expected one day to come too, that you would take warn<g ref="char:EOLhyphen"/>ing, and not give way to Paſſion, which many times makes Men do what they leaſt deſign; for when a Man is inraged, the Devil many times prevails againſt him with his Temptations. As for my part, I did no more deſign to Act the Crime for which I ſuffer, than to do hurt to my own Heart, but what I did, I did out of a ſudden Raſhneſs, and I hope in Chriſt Jeſus, I ſhall find Pardon for it.</hi>
+               </p>
+            </q>
+            <p>After this, he told the Miniſter and the under Sheriff, <hi>&amp;c.</hi> that what elſe he thought convenient to make publick as afore-ſaid, he had left in the hands of his Friend, with a deſire it ſhould be Prin<g ref="char:EOLhyphen"/>ted and Publiſhed, and repeated the ſame with a loud Voice, to the People that came to be Specta<g ref="char:EOLhyphen"/>tors of his unhappy End; appearing very ſenſible of his Offence, which was obſerved by his many Ex<g ref="char:EOLhyphen"/>preſſions of the Deteſtation and Abhorrence he con<g ref="char:EOLhyphen"/>ceived thereat; and earneſt deſires that God would of his infinite Mercy, be pleaſed to forgive and par<g ref="char:EOLhyphen"/>don him for ſo offending.</p>
+            <p>
+               <hi>Thomas Gourdon,</hi> being deſired to declare himſelf as to what he ſtood Condemned, ſaid, that many before him had been brought to the like Death he he was to undergo, for the like Crimes that he ſtood charged withall; but his Wiſhes and earneſt Deſires were, that he might be the laſt, and that he truſted in Jeſus Chriſt that he ſhould find a Pardon for his ſins, and thereupon fell to praying; ſometimes with an audible voice, and at other times to himſelf; then the Miniſter who attended this buſineſs, pray<g ref="char:EOLhyphen"/>ed with them a conſiderable time; after which being demanded if they had any thing more to ſay, in order to the eaſement or disburthening of their minds, they anſwering, they had nothing more to ſay to the people, whereupon the Executioner having or<g ref="char:EOLhyphen"/>ders to drive away the Cart, they were turned off.</p>
+            <p>After the Bodys had hung the ſpace of half an hour, or ſomewhat more, they were taken down and delivered to their Friends, who attended with two Coffins, in order to diſpoſe of them, according to their diſcreſſion.</p>
+         </div>
+         <div type="letter">
+            <p>The true Coppy under <hi>Thomas Watſon's</hi> own hand and Written by him in Priſon, take as fol<g ref="char:EOLhyphen"/>loweth.</p>
+            <floatingText type="letter">
+               <body>
+                  <p>AFter my condemnation, having a true Senſe of my ſad Eſtate, I bitterly lamented my ſins, and loathed my ſelf for them, eſpecially as they were againſt a Good and Gracious God: According to <hi>Pſal.</hi> 31.4. and 15.4.</p>
+                  <pb n="2" facs="tcp:43890:2"/>
+                  <p>I was deeply ſenſible of, and grieved for the Cor<g ref="char:EOLhyphen"/>ruption of my heart, from whence my actual ſins did proceed: According to <hi>Pſal.</hi> 51.5.</p>
+                  <p>I Mourned over my Back ſlidings, becauſe God was thereby diſhonoured.</p>
+                  <p>I found it hard to believe, yet, I reſolved I would call upon God, and relye upon the Merrits of Chriſt alone for Salvation, ſaying, if I periſh, I will periſh at the Fountain of Mercy.</p>
+                  <p>I was much in a little time in Dutys; yet, I pro<g ref="char:EOLhyphen"/>feſſed to my ſelf, I ſaw the inſufficiency of them to juſtifie or ſave me, as in <hi>Phil.</hi> 3.9.</p>
+                  <p>I made choice of Chriſt before all, before Life it ſelf: According to <hi>Phil.</hi> 3.8.</p>
+                  <p>I longed for the Morning when I was to Die, be<g ref="char:EOLhyphen"/>cauſe I deſired to be with Chriſt: According to <hi>Phil.</hi> 1.23.</p>
+                  <p>I greatly loved God, becauſe much was forgiven me: According to <hi>Luk.</hi> 7.47. and ſaid, though I ſhould fail before him, yet I would truſt in him.</p>
+                  <p>I loved the Company of Gods people, and pro<g ref="char:EOLhyphen"/>feſſed I would rather be with them in Priſon with Bread and Water, than with the ungodly at liberty, with the greateſt Dainties: According to the 1 <hi>Joh.</hi> 3.14.</p>
+                  <p>I Beſought God, that he would ever give me a heart, to think it better to be in Chains, and brought to Dye, than to go on in ſin.</p>
+                  <p>I was broken and melted for my ſins, when thoſe that came to viſit me, were gone from me and not in their preſence; yet, this was ſometimes my trou<g ref="char:EOLhyphen"/>ble, leaſt God ſhould looſe the Glory he had wrought in me.</p>
+                  <p>I Weep'd for joy, at the time when I conceived that God loved me, foraſmuch as I was not ſinning againſt him as others were, and I my ſelf had for<g ref="char:EOLhyphen"/>merly done, for I found and taſted, more ſweetneſs in the ways of God, and in praying and mourning for forgiveneſs of my ſin, than ever I found in the committing of them.</p>
+                  <p>I counted ſin to be worſe than Death or Hell.</p>
+                  <p>I looked upon the loſs of God, more than the tor<g ref="char:EOLhyphen"/>ments of the latter, and feared it more, nay, I praiſed God, becauſe in the Grave I ſhould ſin no more, and thus I comforted my ſelf in miſery; ad<g ref="char:EOLhyphen"/>viſing all to Watch and Pray, that they might not enter into Temptation and be guilty of the like ſins which I had committed, but prayed that my fel<g ref="char:EOLhyphen"/>low Convicts might recieve the like Conſolation my Repentance had wrought in me.</p>
+                  <closer>
+                     <signed>
+                        <hi>Written by me</hi> Thomas Watſon, <hi>with my own Hand in the</hi> Marſhalſea.</signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <floatingText type="letter">
+               <body>
+                  <p>After I had thus far improved my time, I fell to conſider and meditate on ſundry ſacred Texts, by which means I found more Conſolation; as thus.</p>
+                  <p>Seek ye the Lord while he may be found; call ye upon him while he is near. Let the wicked forſake his way, and the unrighteous man his thoughts, and let him return unto the Lord, and he will have mer<g ref="char:EOLhyphen"/>cy upon him, and to our God, for he will aboun<g ref="char:EOLhyphen"/>dantly pardon; for my thoughts are not your thoughts, neither are my ways your ways, ſaith the Lord. I, even I, am he, that blotteth out thy Tranſgreſſions for mine own Names ſake, and will not remember thy ſins. Come now, and let us reaſon together, ſaith the Lord: Though your ſins be as Scarlet, they ſhall be as white as Snow: Though they be as Red as Crimſon, they ſhall be as Wool; but this I ſay, Bretheren the time is ſhort; this remains, that both they that have Wives, be as though they had none, and they that Weep, as though they Weep'd not, and they that Rejoyce, as though they Rejoyced not, and they that Buy, as though they poſſeſſed not, and they that uſe this World, as not abuſing it; for the Faſhion of this World paſſeth away, in the ſweat of thy Face faith the Lord, ſhalt thou Eat Bread, till thou re<g ref="char:EOLhyphen"/>turn unto the Ground, for out of it was thou taken, for Duſt thou art, and unto Duſt thou ſhalt return.</p>
+                  <p>In God have I put my truſt, I will not be affraid what man can do unto me: He that covereth his ſins ſhall not proſper, but whoſoever confeſſeth and forſaketh them ſhall have Mercy; hear O <hi>Iſrael,</hi> the Lord our God, is one Lord, the Lord is the true God, and an everlaſting King; at his Wrath the Earth ſhall tremble, and the Nations ſhall not be able to abide his indignation: Go therefore, and teach all Nations, Baptiſing them, in the Name of the Father, and of the Son, and of the Holy Ghoſt; for there are three that bear Record in Heaven, the Father, the Word, and the Holy Ghoſt, and theſe three are one. Jeſus ſaid unto him, thou ſhalt love the Lord thy God, with all thy Heart, and with all thy Soul, and with all thy Mind: This is the firſt and great Commandment, and the Second is like unto it. Thou ſhalt love thy Neighbour as thy ſelf, for whoſoever will ſave his Life ſhall looſe it, and and whoſoever will looſe his Life for my ſake, ſhall find it: For what is a man profited if he ſhall gain the whole World, and looſe his own Soul? or what ſhall a man give in Exchange for his Soul?</p>
+                  <p>For if a man Dye, ſhall he Live again; all the days of my appointed time, will I wait till my change come, truſting in, and hoping to improve, that which our Bleſſed Saviour ſaid to encourage St. <hi>Peter, viz.</hi> I have prayed for thee, that thy Faith fail not; and when thou art Comforted, ſtrengthen thy Bretheren, and examine your ſelves whether you be in the Faith; prove your own ſelves, know ye not your own ſelves, how that Jeſus Chriſt is is you, except ye be in Reprobation: Therefore, let us keep the Feaſt not with Old Leaven, neither with the Leaven of Mallice and Wickedneſs, but with the unleavened Bread of Sincerity and Truth: I wrought unto you in an <hi>Epiſtle,</hi> not to accompany Fornicators; but let us who are of the day be ſober putting on the Breſt-Plate of Faith, and for an Hel<g ref="char:EOLhyphen"/>met, the hope of Salvation, for God hath nor ap<g ref="char:EOLhyphen"/>pointed us for Wrath, but to obtain Salvation by our Lord Jeſus Chriſt; but the Lord is faithful, who ſhall eſtabliſh you, and keep you from Evil, for I am now ready to be offered, and the time of my departure is at hand. I have fought a good Fight. I have finiſhed my Courſe. I have kep'd the Faith: Henceforth, there is laid up for me, a Crown of Righteouſneſs, which the Lord, the Righteous Judge ſhall give me at that day, and not to me only, but to all them that love his appearing; knowing that a man is not juſtified by the works of the Law, but by the Faith of Jeſus Chriſt: Even we have be<g ref="char:EOLhyphen"/>lieved in Jeſus Chriſt, that we might be juſtified by
+<pb n="3" facs="tcp:43890:2" rendition="simple:additions"/>the Faith of Jeſus Chriſt, and not by the works of the Law; for by the works of the Law ſhall no fleſh be juſtified: I do not fruſtrate the Grace of God, for if Righteouſneſs comes by the Law, then Chriſt is Dead in vain, but Chriſt our Paſſover, is Sacrificed for us: Therefore, let us keep the Feaſt not with Old Leaven, neither with the Leaven of Mallice and Wickedneſs, but with the unleavened Bread of Sincerity and Truth: Whoſoever ſhall ex<g ref="char:EOLhyphen"/>alt himſelf ſhall be abaſed, and he that ſhall hum<g ref="char:EOLhyphen"/>ble himſelf ſhall be exalted, wherefore I abhor my ſelf, and Repent in Duſt and Aſhes. Look down then from Heaven, and behold from the Habitation of thy Holineſs, and of thy Glory, where is thy Zeal and thy ſtrength, and the erning of thy Bow<g ref="char:EOLhyphen"/>els and of thy Mercy towards me, are they reſtrain<g ref="char:EOLhyphen"/>ed doubtleſs? No, for thou art our Father, though <hi>Abraham</hi> be ignorant of us, and <hi>Iſrael</hi> acknowledge us not; thou O Lord art our Father, our Redeemer, thy Name is from everlaſting.</p>
+                  <p>Having well weighed and conſidered theſe things I betook my ſelf to prayer in the following manner.</p>
+                  <div type="prayer">
+                     <head>THE PRAYER.</head>
+                     <p>ALmighty and Moſt Merciful Father, Moſt Ho<g ref="char:EOLhyphen"/>ly and Righteous Judge of the whole World, give me a miſerable and ſinful Wretch leave to pro<g ref="char:EOLhyphen"/>ſtrate my ſelf before the Throne of thy Grace, and to implore that Mercy I have formerly abuſed and deſpiſed: I am not worthy to look up to Heaven, which is the Throne of thy Purity, but it becomes me in the greateſt Humility and Dejection of Spirit, to bewail, and groan under the load of my many and great ſins, ſo henious, that when I reflect on them, I am ready to ſink into Hell and diſpair of Mercy: But although I am a miſerable ſinner, yet thou art a merciful God, full of Compaſſion and long ſuffering; and of great Goodneſs. To thee do I come, beſeeching thee for thy dear Son Chriſt Jeſus ſake, to pardon all my ſins; whether of Omiſ<g ref="char:EOLhyphen"/>ſion or commiſſion, ſecret or open, notorious or preſumptious; that in Thought Word or Deed, I have committed againſt thy Divine Majeſty.</p>
+                     <p>Eſpecially O Lord, pardon my prophaning thy Holy Sabbaths, when thou gaveſt me ſix days to follow my lawful Occaſions in, and took but one to thy ſelf, yet I have not ſpent it as I ought, in pri<g ref="char:EOLhyphen"/>vate praying unto thee, and praiſing of thee, in Rea<g ref="char:EOLhyphen"/>ding and Meditating of thy Holy Word, and exa<g ref="char:EOLhyphen"/>mining the ſtate of my ſoul, nor publickly at<g ref="char:EOLhyphen"/>tending upon thee in thy houſe, to worſhip thee, and hear thy Holy Word Preached to me, to inſtruct me in the way to Heaven, and to reſtrain me from ſin; but the precious time I have thrown away, up<g ref="char:EOLhyphen"/>on my Folly and vanities.</p>
+                     <p>O Lord, pardon my uncleanneſs; for that Body which ſhould have been the Temple of the Holy Ghoſt, and been kept from all impurity and unchaſt Thoughts and Actions, I have defiled by unchaſt Deſires and uncleanneſs.</p>
+                     <p>O Lord pardon all thoſe ſins and irregular Actions, by which I entered into Debts, further than my ne<g ref="char:EOLhyphen"/>ceſſity required, or I was able to pay. Let not my Creditors ſuffer by my ſins, Lord reward all their Kindneſſes into their Boſomes, and make them re<g ref="char:EOLhyphen"/>compence where I cannot. Lord, I beſeech thee pay my Debts in Bleſſings to them and theirs. Lord pardon all my Raſhneſs and Paſſion; for when I ſhould have been meek, gentle, humble and merci<g ref="char:EOLhyphen"/>ful, patiently bearing all the injuries done unto me, as my Bleſſed Saviour Jeſus Chriſt did; alas! I have for one inconſiderable word, broak into open Rage and Paſſion, harbouring miſchief in my heart; nay, at laſt they brought me to the inhumane and cruel Mur<g ref="char:EOLhyphen"/>ther even of her that ought to have been as dear un<g ref="char:EOLhyphen"/>to me as my own Life, although ſhe was unkind to me, I ought to have loved her, inſtructing, re<g ref="char:EOLhyphen"/>proving, and reſtraining her, with all meekneſs and gentleneſs, and long ſuffering, praying for her, and not to have been raſh and paſſionate againſt her, moreover, wickedly to deſtroy her; and as much as in me lay, to raiſe out the very Image of God: Deli<g ref="char:EOLhyphen"/>ver me O Lord, from Blood Guiltineſs, thou that art my Saviour, and my Tongue ſhall ſing of thy Righteouſneſs; waſh me throughly from my wick<g ref="char:EOLhyphen"/>edneſs, and cleanſe me from my ſins. Turn thy Face from my ſins, and blot out all my miſdoings; make me a new heart, and renew a right ſpirit with<g ref="char:EOLhyphen"/>in me; the Remembrance of my ſins is grievous, the Burthen of them intollerable. O Lord I be<g ref="char:EOLhyphen"/>ſeech thee, give me a due ſenſe of my ſins, the baſe<g ref="char:EOLhyphen"/>neſs and vileneſs of all my doings and miſdeeds, that I may hate them worſe than that Death I ex<g ref="char:EOLhyphen"/>pect ſhortly to ſuffer: Give me a Godly ſorrow that may work Repentance, never to be repented of. Give me unfeigned purpoſes of amendment of Life; though I may juſtly think, they are too late to find Acceptance with thee, therefore with fear, and a great ſenſe of my own unworthineſs with a ſorrow<g ref="char:EOLhyphen"/>ful heart, and true ſence of my ſins.</p>
+                     <p>I look up unto thee for Mercy, that had Mercy on the Penitent Thief at the laſt hour, thou that art Mercy it ſelf; give me ſome ſmall hopes of Mercy, good Lord caſt me not quite out of thy ſight, for Jeſus Chriſt's ſa<gap reason="illegible" resp="#UOM" extent="1 letter">
+                           <desc>•</desc>
+                        </gap>e, who gave himſelf for us, to re<g ref="char:EOLhyphen"/>deem us from all Iniquities, I confeſs 'tis a beginning of Mercy, and an earneſt I have to hope for, more that haſt made me ſenſible of my ſins, to a degree of hating them, and to reſolve againſt them, that I have a love and deſire to a Godly Life.</p>
+                     <p>I confeſs, thou had'ſt juſt cauſe to leave me to my ſelf, and permit me to commit ſo horrid a Fact; O Lord, I know thou canſt bring good out of evil; and I beſeech thee, to let this be a means of bring<g ref="char:EOLhyphen"/>ing me to Repentance, and then I ſhall have infi<g ref="char:EOLhyphen"/>nite cauſe to Bleſs thee, for ſuffering of Juſtice to take hold of me, and put a ſtop to my further ſin<g ref="char:EOLhyphen"/>ning againſt thee; let me take ſhame to my ſelf, by open confeſſing my Crime, and earneſtly admo<g ref="char:EOLhyphen"/>niſhing all, to be warned by my Example, to ceaſe betimes to do evil, and learn to do well. O! that I might Glorifie thee in my Latter End, till I re<g ref="char:EOLhyphen"/>ceive my deſerved puniſhment; give me Grace to ſpend my time, bewailing my ſins, in and humbling my ſelf before thee for them, and hating them with a perfect hatred, and in calling other Offendors to Repentance: I beſeech thee to inable me thus to ſpend my time: Grant me to taſt of thy Mercy, and take from me the fear of Death. Give me Grace to work out my Salvation, with fear and
+<pb n="4" facs="tcp:43890:3"/>trembling, to uſe all diligence, to make my Calling and Election ſure; ſo that when my Soul is ſeperated from my Body, that thou Bleſſed Jeſus wilt receive it into thy Protection, and have Mercy upon me, O Lord God, according to thy loving kindneſs, according to thy tender Mercys, blot out my Tranſgreſſions; waſh me throughly from mine Iniquity, and cleanſe me from my ſins; for I acknowledge my Tranſgreſ<g ref="char:EOLhyphen"/>ſions and my Sins are ever before me, againſt thee only have I ſinned, and done this evil in thy ſight, that thou might be juſtified when thou ſpeakeſt, and be clear when thou judgeſt; for behold, I was ſhapen in Iniqui<g ref="char:EOLhyphen"/>tie, and in ſin my Mother concieved me, but thou ſhalt make me to know wiſdom. Purge me with <hi>Hyſſop,</hi> and I ſhall be clean, waſh me, and I ſhall be whiter than Snow: Make me to hear of joy and gladneſs, that the Bones which thou haſt broken may rejoyce, hide thy Face from my ſins, and blot out all my iniquities. Create in me a clean heart, O God, and renew a right Spirit within me; caſt me not away from thy preſents, and take not thy Holy Spirit from me; reſtore unto me, the joy of thy Salvation, and uphold me with thy Spirit, then will I teach Tranſgreſſors thy ways, and ſinners ſhall be converted unto thee. Deliver me from Blood-guiltineſs, O God, thou God of my Salvation, and my Tongue ſhall ſing aloud of thy Righteouſneſs. O Lord, open thou my Lips, and my Mouth ſhall ſhew forth thy Praiſes, for thou deſireſt not ſacri<g ref="char:EOLhyphen"/>fice, elſe would I give it thee; thou deligh<g ref="char:EOLhyphen"/>teſt not in Burnt-Offerings, the ſacrifices of God are a broken ſpirit, a broken and con<g ref="char:EOLhyphen"/>trite heart, O God. Thou wilt not diſpiſe, do good in thy good pleaſure unto <hi>Zion;</hi> Build thou the walls of <hi>Jeruſalem,</hi> let me make my Calling and Election ſure, and when my ſoul departeth from my body, then, O Bleſſed Lord, receive it into the hands of thy Mercy. Theſe, and whatſoever elſe, thou ſeeſt needful for me, I Beg in the Name and for the ſake of Jeſus Chriſt, concluding theſe my imperfect Prayers, in ſaying as he himſelf hath Taught us,</p>
+                     <q>
+                        <hi>Our Father,</hi> &amp;c.</q>
+                  </div>
+                  <closer>
+                     <signed>
+                        <hi>Written by me</hi> Thomas VVatſon, <hi>with my own Hand in the</hi> Marſhalſea <hi>Priſon. And is my deſire it may be made publick.</hi>
+                     </signed>
+                  </closer>
+               </body>
+            </floatingText>
+            <p>WE, the Perſons who have ſubſcribed the Papers mentioned to be left by <hi>Tho<g ref="char:EOLhyphen"/>mas VVatſon,</hi> do teſtifie of our own Knowledge, that they were Written by the ſaid <hi>Thomas VVatſon,</hi> and ſigned with his own Hand, it being his deſire they ſhould be Printed and Publiſhed.</p>
+            <closer>
+               <signed>Joſhua Ettry, Jonah Bullock, Judith Granger.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <p>This may be Printed,</p>
+            <closer>
+               <signed>R. M. </signed>
+               <dateline>
+                  <date>March <hi>the</hi> 21ſt. 1687.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed by <hi>D. Mallet,</hi> for <hi>G. P.</hi> MDCLXXXVII.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
